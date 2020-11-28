@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Partition-Problem-App/static/css/main.ef69bab4.chunk.css",
+    "main.js": "/Partition-Problem-App/static/js/main.a055db62.chunk.js",
+    "main.js.map": "/Partition-Problem-App/static/js/main.a055db62.chunk.js.map",
+    "runtime-main.js": "/Partition-Problem-App/static/js/runtime-main.46c5eb3d.js",
+    "runtime-main.js.map": "/Partition-Problem-App/static/js/runtime-main.46c5eb3d.js.map",
+    "static/js/2.360afbcb.chunk.js": "/Partition-Problem-App/static/js/2.360afbcb.chunk.js",
+    "static/js/2.360afbcb.chunk.js.map": "/Partition-Problem-App/static/js/2.360afbcb.chunk.js.map",
+    "index.html": "/Partition-Problem-App/index.html",
+    "static/css/main.ef69bab4.chunk.css.map": "/Partition-Problem-App/static/css/main.ef69bab4.chunk.css.map",
+    "static/js/2.360afbcb.chunk.js.LICENSE.txt": "/Partition-Problem-App/static/js/2.360afbcb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46c5eb3d.js",
+    "static/js/2.360afbcb.chunk.js",
+    "static/css/main.ef69bab4.chunk.css",
+    "static/js/main.a055db62.chunk.js"
+  ]
+}
